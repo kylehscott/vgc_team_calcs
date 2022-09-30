@@ -1,0 +1,59 @@
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+EVs: 28 HP / 4 Def / 236 SpA / 4 SpD / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Protect  
+
+Tornadus (M) @ Mental Herb  
+Ability: Prankster  
+Level: 50  
+EVs: 36 HP / 4 Def / 212 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Tailwind  
+- Hurricane  
+- Brutal Swing  
+- Weather Ball  
+
+Solgaleo @ Weakness Policy  
+Ability: Full Metal Body  
+Level: 50  
+EVs: 84 HP / 100 Atk / 4 Def / 92 SpD / 228 Spe  
+Adamant Nature  
+- Sunsteel Strike  
+- Earthquake  
+- Wild Charge  
+- Protect  
+
+Rillaboom-Gmax @ Miracle Seed  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 132 HP / 252 Atk / 52 Def / 4 SpD / 68 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Fake Out  
+- Drum Beating  
+- Protect  
+
+Spectrier @ Choice Scarf  
+Ability: Grim Neigh  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Snarl  
+- Bulldoze  
+- Will-O-Wisp  
+- Shadow Ball  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 220 HP / 4 Atk / 140 Def / 116 SpD / 28 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Sucker Punch  
